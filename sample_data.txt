@@ -1,0 +1,17 @@
+{
+	"client":"MUTUAL INSURANCE PTY LTD",
+	"vatRate":"14",
+	"invoiceDate":"2018-08-10T20:36:28.078+0000",
+	"lineItems": [
+		{
+        "quantity": 2,
+        "description": "KEY BOARD",
+        "unitPrice": 300
+		},
+		{
+        "quantity": 2,
+        "description": "MOUSE",
+        "unitPrice": 350.90
+		}
+	 ]
+}
